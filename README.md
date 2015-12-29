@@ -22,10 +22,11 @@ Plugins di Zenoss salah satunya berupa Zenpacks.Zenpacks dapat dibuat sendiri at
 Security Plugins
 Security Plugins yang digunakan adalah  	ZenPacks.zenoss.Microsoft.Windows . Plugins ini sudah built ini didalam Zenoss 4.2.5. Zenpacks ini mengatur authentication pada Kerberos. Kita juga bisa memilih HTTPS Protocol untuk enkripsi user name dan password.
 Accounting Plugins
-Plugins Untuk accounting yang kami pilih adalah Zenpacks FreeRADIUS. Zenpack ini memunculkan grafik MEtrik total Access, Authentication dan Accounting.
+Plugins Untuk accounting yang kami pilih adalah Zenpacks FreeRADIUS. Zenpack ini memunculkan grafik MEtrik total Access, Authentication dan Accounting. http://wiki.zenoss.org/ZenPack:FreeRADIUS
 
 INSTALASI ZENPACKS
 1.Instalasi Zenpacks dilakukan dengan membuka Dashboard di Zenoss Web UI dan memilih Tab Advanced.
 2. Di Tab Settings pilih Zenpacks
 3. di Sebelah Loaded Zenpacks klik Symbol Gear dan pilih Install Zenpacks
 4. Pilih file Zenpacks(ekstensi .egg) yang telah didownload sebelumnya
+
