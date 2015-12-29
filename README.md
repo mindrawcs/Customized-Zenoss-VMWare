@@ -2,9 +2,11 @@ TUGAS MANAJEMEN JARINGAN S1 ILMU KOMPUTER UGM 2013
 MODIFIKASI OPEN-SOURCE NMS
 
 Anggota:
-
-
-
+Damar Adi Prabowo(15293)
+Kurnia Ramadhani(15184)
+Mohamad Indra Wicaksono(15460)
+Muhammad Senna Hastoanggoro(15467)
+Tito Kurniawan(15258)
 
 
 PETUNJUK INSTALASI
