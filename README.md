@@ -1,3 +1,12 @@
+TUGAS MANAJEMEN JARINGAN S1 ILMU KOMPUTER UGM 2013
+MODIFIKASI OPEN-SOURCE NMS
+
+Anggota:
+
+
+
+
+
 PETUNJUK INSTALASI
 
 1. download zenoss_core-4.2.5-2108-x86_64.vmware.zip di http://sourceforge.net/projects/zenoss/
